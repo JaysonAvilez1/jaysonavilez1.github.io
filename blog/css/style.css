@@ -234,7 +234,9 @@ aside {
     margin-left:3%;
     padding-left:3%;
     border-left:.0625rem solid #333;
+    float:right;
 }
+
 aside :nth-child(1){
     margin-top:0;
 }
@@ -250,7 +252,6 @@ aside p{
     display:block;
     padding-top:5rem;
 }
-
 
 
 /* Footer */
