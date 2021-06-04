@@ -208,7 +208,7 @@ nav :nth-child(odd):active{
     font-size:1.5rem;
     color:#000;
 }
-/* Typgraphic styles */
+/* Typographic styles */
 h2{
     font-size:1.5rem;
 }
@@ -230,7 +230,7 @@ p{
 /* Sidebar */
 aside {
     clear:left;
-    width:19%;
+    width:12%;
     margin-left:3%;
     padding-left:3%;
     border-left:.0625rem solid #333;
